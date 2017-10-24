@@ -1,6 +1,8 @@
 ########### Python 2.7 #############
 import httplib, urllib, base64
 
+
+
 headers = {
     # Request headers. Replace the placeholder key below with your subscription key.
     'Content-Type': 'application/json',
